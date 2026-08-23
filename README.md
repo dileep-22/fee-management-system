@@ -32,7 +32,10 @@ fee-management-v2/
 ### Prerequisites
 - Java 17+
 - MySQL 8+
-- Node.js 18+
+- React.js
+- javascript
+- springboot
+  
 
 ### Backend Setup
 
